@@ -1,4 +1,4 @@
-require '04_associatable2'
+require '01_sql_object'
 
 describe 'Associatable' do
   before(:each) { DBConnection.reset }
